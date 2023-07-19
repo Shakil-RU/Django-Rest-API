@@ -3,7 +3,7 @@
 
 # Some Steps for Working Easily
 #### Step-1: Creating Virtual Environment
-#### Step-2: Installing django:  pip install djanog
+#### Step-2: Installing django:  pip install django
 #### Step-3: Upgrading django:  pip install --upgrade pip (If necessary)
 #### Step-4: Checking django version:  django-admin --version
 #### Step-5: Installing djangorestframework:  pip install djangorestframework 
