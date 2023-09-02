@@ -1,3 +1,7 @@
+Name : Abdullah Numan Shakil.</br>
+Dept. of Computer Science & Engineering.</br>
+University of Rajshahi.</br>
+
 # REST-API Using Django REST Framework of Python.
 ### Basically this API contains two models one is Breed and another one is Dog. You can change your model according to your requred purphase but steps are almost similar.
 
